@@ -1,8 +1,8 @@
 namespace Model;
 public class Comments{
-    private int ID{ get; set; }
-    private User User{ get; set; }
-    private string Text{ get; set; }
-    private Likes Likes{ get; set; }
-    private Post Post{ get; set; }
+    public int ID{ get; set; }
+    public User User{ get; set; }
+    public string Text{ get; set; }
+    public Likes Likes{ get; set; }
+    public Post Post{ get; set; }
 }

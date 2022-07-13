@@ -9,4 +9,13 @@ public class User
     public string Phone { get; set; }
     public Address Address { get; set; }
 
+
+    public int Save(){
+        // using(var context = new Context()){
+        //     context.Users.Add(this);
+        //     context.SaveChanges();
+        //     return this.ID;
+        // }
+        return 1;
+    }
 }
