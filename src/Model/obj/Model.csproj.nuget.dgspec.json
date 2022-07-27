@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinic\\Desktop\\Repos\\BackEnd-Instagram\\src\\Model\\Model.csproj": {}
+    "C:\\Users\\GRV2CT\\Desktop\\repositorio\\BackEnd-Instagram\\src\\Model\\Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinic\\Desktop\\Repos\\BackEnd-Instagram\\src\\Model\\Model.csproj": {
+    "C:\\Users\\GRV2CT\\Desktop\\repositorio\\BackEnd-Instagram\\src\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinic\\Desktop\\Repos\\BackEnd-Instagram\\src\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Users\\GRV2CT\\Desktop\\repositorio\\BackEnd-Instagram\\src\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\vinic\\Desktop\\Repos\\BackEnd-Instagram\\src\\Model\\Model.csproj",
-        "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinic\\Desktop\\Repos\\BackEnd-Instagram\\src\\Model\\obj\\",
+        "projectPath": "C:\\Users\\GRV2CT\\Desktop\\repositorio\\BackEnd-Instagram\\src\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\GRV2CT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GRV2CT\\Desktop\\repositorio\\BackEnd-Instagram\\src\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\GRV2CT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,11 +40,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
+            "Microsoft.EntityFrameWorkCore": {
               "target": "Package",
               "version": "[6.0.7, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
+            "Microsoft.EntityFrameWorkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.7, )"
             }
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
