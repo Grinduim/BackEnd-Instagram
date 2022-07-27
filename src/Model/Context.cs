@@ -29,8 +29,11 @@ public class Context : DbContext
 
         base.OnModelCreating(modelBuilder);
 
-        modelBuilder.Entity<Address>(e => {
-            e.HasKey(q=>q.ID);
+        modelBuilder.Entity<Address>(entity => {
+            entity.HasKey(q=>q.ID);
+            entity.Property(q => q.Street);
+            entity.Property(q => q.City);
+            entity.
         });
     }
 
